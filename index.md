@@ -3,9 +3,8 @@
 
 I’m a designer.
 I have  experience at Github, JavaScript programming,website design,game development and lots more.
-‍
+
 I value clarity, empathy, and integrity above all else. These ideals guide my approach to problem solving and life in general.
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
