@@ -34,5 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-         @ *stanleydmnc1@gmail.com*
-               *07042879338*
+         @ **stanleydmnc1@gmail.com**
+               **07042879338**
