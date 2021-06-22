@@ -1,9 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Wazobia
+  I Am ONYEMAUCHE STANLEY DOMINIC
 
-You can use the [editor on GitHub](https://github.com/stanley818/Wazobia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I’m a designer.
+I have  experience at Github, JavaScript programming,website design,game development and lots more.
+‍
+I value clarity, empathy, and integrity above all else. These ideals guide my approach to problem solving and life in general.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
